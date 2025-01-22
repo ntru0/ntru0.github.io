@@ -19,7 +19,7 @@ locale                   : "Washington, D.C."
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Nhi Truong"
 title_separator          : "-"
-subtitle                 : "whole lotta words"
+subtitle                 : "humbling and bumbling"
 name                     : "Nhi Truong"
 description              : #
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Nhi Truong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Nhi's stimutaneous portfolio and personal blog of dubious quality" 
+  bio              : "Nhi's stimutaneous portfolio and personal blog of dubious quality. 
   location         : "Washington, D.C."
   email            :
   links:
