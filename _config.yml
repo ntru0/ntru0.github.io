@@ -114,8 +114,8 @@ analytics:
 # Site Author
 author:
   name             : "Nhi Truong"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Nhi's stimutaneous portfolio and personal blog of dubious quality." 
+  avatar           : "/assets/bio-photo.jpeg"
+  bio              : "Nhi's simultaneous portfolio and personal blog of dubious quality." 
   location         : "Washington, D.C."
   email            :
   links:

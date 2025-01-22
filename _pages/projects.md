@@ -8,11 +8,12 @@ Here are some of my coding projects. Some are personal while some are from schoo
 
 ---
 
-🦋 [BlueSky TTRPG Feed](https://github.com/EddyLuten/ttrpg-feed-generator) &middot; 2023-present (MIT Licensed)
+📷 [Backyard Birdbot](https://github.com/R-Has/Racer-4) &middot; 2022 (MIT Licensed)
 
-A complete feed of Dungeons & Dragons, Pathfinder, Critical Role, and all other TTRPG posts for BlueSky. [Check it out here](https://bsky.app/profile/did:plc:56dp2st2pupnf7qsxko2qmmd/feed/ttrpg).
+*Tools Used: Raspberry Pi & Pi Cam,TensorFlow & Python, JIRA (agile scrums), Discord*
 
-{: style="text-align: center;"}
-[![EddyLuten/ttrpg-feed-generator - GitHub](https://gh-card.dev/repos/EddyLuten/ttrpg-feed-generator.svg)](https://github.com/EddyLuten/ttrpg-feed-generator)
+A complete feed of Dungeons & Dragons, Pathfinder, Critical Role, and all other TTRPG posts for BlueSky. [Slides are here](..\assets\ppt\Backyard_BirdBot_Racer4.pdf).
+
+
 
 ---
