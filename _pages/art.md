@@ -2,6 +2,7 @@
 layout: single
 permalink: /art/
 author_profile: true
+title: Gallery
 
 gallery:
   - url: /assets/images/2.jpg
@@ -21,9 +22,7 @@ gallery:
   - url: /assets/images/14.jpg
     image_path: /assets/images/14.jpg
     alt: ""
-  - url: /assets/images/5.jpg
-    image_path: /assets/images/5.jpg
-    alt: ""
+
 gallery2:
   - url: /assets/images/32.jpeg
     image_path: /assets/images/32.jpeg
@@ -48,13 +47,13 @@ gallery2:
     alt: ""
 ---
 
-#  Personal Art
+## Personal Art
 Drawings I've done for myself. This includes fan art and original works.
 
 {% include gallery caption="" %}
 
 
----
-# Art for Others
+
+## Art for Others
 Art I've drawn for others. Ranges from personal commissions to pieces for fan anthologies.
 {% include gallery id="gallery2" caption="" %}

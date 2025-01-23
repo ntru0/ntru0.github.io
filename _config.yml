@@ -19,7 +19,7 @@ locale                   : "Washington, D.C."
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Nhi Truong"
 title_separator          : "-"
-subtitle                 : "humbling and bumbling"
+subtitle                 : "hey look ma, I made a blog!"
 name                     : "Nhi Truong"
 description              : #
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
