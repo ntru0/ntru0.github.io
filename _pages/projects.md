@@ -31,7 +31,7 @@ Created a React application that allows user to make small notes and store it lo
 🍷Decision Tree Classifier on a Wine Data Set
  &middot; 2022 (MIT Licensed)
  
-Made a Decision Tree from scratch and feed it sample data on a wine data set. After training the tree, the rest of the data tested and we observe its performance via  mean, precision, recall, and f1 scores.
+Made a Decision Tree from scratch and feed it sample data on a wine data set. After training the tree, the rest of the data is tested and its performance was observed via  mean, precision, recall, and f1 scores.
 
 **Tools Used:** *Python, Python scikit-learn library, machine Learning*
 
