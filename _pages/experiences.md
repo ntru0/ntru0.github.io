@@ -39,7 +39,7 @@ author_profile: true
 
 **George Mason University** - B.S in Computer Science, Minor in Graphic Design
 * Honors College, Dean’s List 
-* GPA: 3.58/4.00, *(Fall 2019 ‑ Spring 2023)*
+* *(Fall 2019 ‑ Spring 2023)*
 
 
 
