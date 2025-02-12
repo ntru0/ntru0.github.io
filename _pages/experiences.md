@@ -7,8 +7,8 @@ author_profile: true
 
 ## Work History
 **IntegrityPro Consulting LLC** - Technical Analyst
-* Worked with ServiceNow. Certified in CIS, CSA, HRSD, DIS.
-* Certified in Snowflake.
+* Worked with ServiceNow. Certified in ServiceNow CIS, CSA, HRSD, DIS.
+* Certified in Snowflake with the Snowflake SnowPro® Core Certification.
 * Communicated, shared information, and managed sprints through Microsoft Teams.
 * Technical Skills: *ServiceNow, Snowflake, Javascript, Microsoft Office Suite, Git.*
 
@@ -30,7 +30,6 @@ author_profile: true
 * Contributed illustrations and merchandise for art anthologies in collaborations with people worldwide. [Gallery here.](/art/#art-for-others)
 
 
-
 ## Education
 
 **George Mason University** - M.A in Computer Science
@@ -42,18 +41,22 @@ author_profile: true
 * *(Fall 2019 ‑ Spring 2023)*
 
 
-
 ## Skills and Tech Stack
-* **Language**: Java, Python, Javascript, C, MySQL, Lisp, Go, R, MATLAB
+* **Language**: Java, Python, Javascript, C, Haskell, Lisp, R, MATLAB, Go
 
-* **Framework**: Angular, Node.js, React, Selenium, JUnit, PostgreSQL
+* **Framework & Libraries**: Node.js, React, Angular, Selenium, JUnit, Express, Python scikit-learn, numpy, Beautiful Soup
 
-* **Applications**: ServiceNow, Snowflake, MongoDB, VS Code, Microsoft Office Suite
+* **Databases**: MySQL, Oracle, PostgreSQL, NoSQL, Snowflake, MongoDB
 
-* **ServiceNow Certificates**: CIS, CSA, HRSD, DIS
+* **Tools & Platforms**: ServiceNow, VS Code, Vim, Emacs, JIRA, Linux (SSH into Zeus & Ubuntu on my local machine), GDB, Microsoft Office Suite
 
-* **Tech Misc.**:  Linux (Zeus), Python scikit-learn, Vim, GBD, JIRA, Emacs
+* **Certifications**: ServiceNow CIS, CSA, HRSD, DIS and Snowflake SnowPro® Core
 
-* **Miscellaneous**: *Illustration, Graphic Design, Adobe suite, Affinity softwares, Native Vietnamese proficiency*
+* **Miscellaneous**: *Illustration, Graphic Design, Adobe suite, Affinity softwares, Native Vietnamese proficiency, Built my own PC*
+
+
+
+
+
 
 <!-- remmeber to add more here and update resume -->

@@ -16,16 +16,16 @@ author_profile: true
 
  **Tools Used:** *Raspberry Pi & Pi Cam, TensorFlow & Python, JIRA (agile scrums), Discord*
 
-
 ---
 📚[
-Sticky Note Study Tool
-](https://nhi-truong-swe432-hw4.onrender.com
-) &middot; 2022 (MIT Licensed)
+Simple Todo App
+](https://pern-todo-fe.onrender.com/
+) &middot; 2025 (MIT Licensed)
 
-Created a React application that allows user to make small notes and store it locally.
+Created a PERN application to practice full stack developement. 
 
-**Tools Used:** *React, Javascript, Git, Render*
+**Tools Used:** *React, Postgres, NoSQL, Express, Javascript, Git, Render*
+
 
 ---
 🍷Decision Tree Classifier on a Wine Data Set
@@ -46,3 +46,4 @@ The site you are currently viewing.
 [![truong-nhi/truong-nhi.github.io - GitHub](https://gh-card.dev/repos/truong-nhi/truong-nhi.github.io.svg)](https://github.com/truong-nhi/truong-nhi.github.io)
 
 **Tools Used:** *Jekyll, HTML, CSS, Javascript, Git, Namecheap, Siteground*
+
