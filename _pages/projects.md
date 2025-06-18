@@ -36,14 +36,14 @@ Made a Decision Tree from scratch and feed it sample data on a wine data set. Af
 **Tools Used:** *Python, Python scikit-learn library, machine Learning*
 
 ---
-📄 [Portfolio Website](https://github.com/truong-nhi/truong-nhi.github.io) &middot; 2025 (MIT Licensed)
+📄 [Portfolio Website](https://github.com/ntru0/ntru0.github.io) &middot; 2025 (MIT Licensed)
 
 The site you are currently viewing. 
 
 
  
 {: style="text-align: center;"}
-[![truong-nhi/truong-nhi.github.io - GitHub](https://gh-card.dev/repos/truong-nhi/truong-nhi.github.io.svg)](https://github.com/truong-nhi/truong-nhi.github.io)
+[![ntru0/ntru0.github.io - GitHub](https://gh-card.dev/repos/ntru0/ntru0.github.io.svg)](https://github.com/ntru0/ntru0.github.io)
 
 **Tools Used:** *Jekyll, HTML, CSS, Javascript, Git, Namecheap, Siteground*
 

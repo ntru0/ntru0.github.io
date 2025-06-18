@@ -25,22 +25,6 @@ author_profile: true
 ---
 
 
-**Freelance Illustrator**
-* Illustrate art commissions for clients.
-* Contributed illustrations and merchandise for art anthologies in collaborations with people worldwide. [Gallery here.](/art/#art-for-others)
-
-
-## Education
-
-**George Mason University** - M.A in Computer Science
-* *(Fall 2023 ‑ present)*
-* Courses: Database, Artificial Intelligence - Machine Learning
-
-**George Mason University** - B.S in Computer Science, Minor in Graphic Design
-* Honors College, Dean’s List 
-* *(Fall 2019 ‑ Spring 2023)*
-
-
 ## Skills and Tech Stack
 * **Language**: Java, Python, Javascript, C, Haskell, Lisp, R, MATLAB, Go
 
@@ -52,7 +36,7 @@ author_profile: true
 
 * **Certifications**: ServiceNow CIS, CSA, HRSD, DIS and Snowflake SnowPro® Core
 
-* **Miscellaneous**: *Illustration, Graphic Design, Adobe suite, Affinity softwares, Native Vietnamese proficiency, Built my own PC*
+* **Miscellaneous**: *Illustration, Graphic Design, Adobe suite, Affinity softwares, Native Vietnamese proficiency*
 
 
 
