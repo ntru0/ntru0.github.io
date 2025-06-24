@@ -36,7 +36,7 @@ author_profile: true
 
 * **Certifications**: ServiceNow CIS, CSA, HRSD, DIS and Snowflake SnowPro® Core
 
-* **Miscellaneous**: *Illustration, Graphic Design, Adobe suite, Affinity softwares, Native Vietnamese proficiency*
+* **Miscellaneous**: *Graphic Design, Adobe suite, Affinity softwares, Native Vietnamese proficiency*
 
 
 
