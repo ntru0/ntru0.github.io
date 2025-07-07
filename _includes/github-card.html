@@ -1,0 +1,13 @@
+<div class="github-card">
+  <!-- Single card markup only -->
+  <div class="card-header">
+    
+    <a href="{{ include.github }}">{{ include.name }}</a>
+  </div>
+  <p>{{ include.description }}</p>
+  <div class="stats">
+    {% assign lang_color = site.data.language_colors[include.language] | default: "#cccccc" %}
+<span class="language-dot" style="background: {{ lang_color }}"></span>
+{{ include.language }}
+  </div>
+</div>

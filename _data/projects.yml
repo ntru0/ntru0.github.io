@@ -1,0 +1,13 @@
+- name: "Simple Todo App"
+  github: "https://pern-todo-fe.onrender.com/"
+  description: "PERN application to practice full stack developement."
+  language: "PERN & Render"
+- name: "Backyard Birdbot"
+  github: '..\assets\ppt\Backyard_BirdBot_Racer4.pdf'
+  description: "Raspberry Pi team project with Python (Tensorflow) identifying birds."
+  language: "Python, Raspberry Pi, JIRA (agile)"
+- name: "Personal Website"
+  description: "The site you are currently viewing."
+  github: "https://github.com/ntru0/ntru0.github.io"  # Format: username/repo
+  language: "Jekyll"
+  website: "https://nhi-truong.com/"

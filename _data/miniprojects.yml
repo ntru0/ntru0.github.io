@@ -1,0 +1,4 @@
+- name: "Decision Tree Classifier on a Wine Data Set"
+  description: "Made a Decision Tree and feed it sample data on a wine data set. "
+  github: ""
+  language: "Python"
