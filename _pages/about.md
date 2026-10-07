@@ -20,7 +20,7 @@ My life's mission is to hone my crafts and inspire others.
 
 
 Resume will be available upon request.
-Feel free to reach out to me at **nhiiscurrently@gmail.com**.
+Feel free to reach out to me at **nhiiscurrently @ gmail (dot) com**.
 
 Thanks for visiting!
 

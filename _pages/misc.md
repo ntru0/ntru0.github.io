@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /art/
+permalink: /misc/
 author_profile: true
 title: Gallery
 
@@ -20,6 +20,8 @@ gallery:
     alt: ""
 
 ---
+
+I have a lot of interests, ranging from art, video games, books, and music. Here is a gallery of things I do in my spare time.
 
 ## Personal Art
 Drawings I've done for myself. This includes fan art and original works.
