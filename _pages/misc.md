@@ -29,4 +29,11 @@ Drawings I've done for myself. This includes fan art and original works.
 {% include gallery caption="" %}
 
 
+## Music
+
+{% include video id="dheb7Qj0nBk" provider="youtube" %}
+
+Got compelled one weekend to transcribe Lost In Thoughts All Alone (Dark Song). Still a WIP. One day, I'll finish it.
+
+
 
